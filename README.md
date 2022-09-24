@@ -1,7 +1,7 @@
 # Hi there, I'm Alvan! 👋
 <img align="left" with="47%" src ="https://github-readme-stats.vercel.app/api?username=Alvannwanorim&count_private=true&theme=blue-green&show_icons=true" />
 
-<img  with="53%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvannwanorim&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /> 
+<img  with="53%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvannwanorim&layout=compact)](https://github.com/Alvannwanorim/github-readme-stats" /> 
 
 ### 📋 Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
