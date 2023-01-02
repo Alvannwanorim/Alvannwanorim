@@ -1,6 +1,7 @@
 # Hi there, I'm Alvan! 👋
-<img align="center" with="100%" src ="https://github-readme-stats.vercel.app/api?username=Alvannwanorim&count_private=true&theme=blue-green&show_icons=true" />
 <!--
+<img align="center" with="100%" src ="https://github-readme-stats.vercel.app/api?username=Alvannwanorim&count_private=true&theme=blue-green&show_icons=true" />
+
 <img  with="53%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=alvannwanorim&layout=compact)](https://github.com/Alvannwanorim/github-readme-stats" />
 -->
 
