@@ -1,9 +1,16 @@
 # Hi there, I'm Alvan! 👋
-<!--
+- 🔭 I’m currently working on backend API(s) and infrastructure, full-stack applications
+- 🌱 I’m currently learning Kafka, ASP.NET, events and streams
+- 👯 I’m looking to collaborate on Telidoc Health-tech application
+- 💬 Ask me about nestjs, nodejs, python, spring boot, reactjs
+<!-- - 🤔 I’m looking for help with ...
+- 📫 How to reach me: ... -->
+- ⚡ Fun fact: Lover of board games
+
 <img align="center" with="100%" src ="https://github-readme-stats.vercel.app/api?username=Alvannwanorim&count_private=true&theme=blue-green&show_icons=true" />
 
-<img  with="53%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=alvannwanorim&layout=compact)](https://github.com/Alvannwanorim/github-readme-stats" />
--->
+<!-- <img  with="53%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=alvannwanorim&layout=compact)](https://github.com/Alvannwanorim/github-readme-stats" />
+ -->
 
 ### 📋 Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -11,14 +18,6 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
-### 📚 Frameworks, Platforms and Libraries
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### Cloud Services
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
