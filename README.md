@@ -1,8 +1,8 @@
 # Hi there, I'm Alvan! 👋
-- 🔭 I’m currently working on backend API(s) and infrastructure, full-stack applications
-- 🌱 I’m currently learning Kafka, ASP.NET, events and streams
+- 🔭 I’m currently working on backend API(s) and infrastructure, bockchain full-stack applications
+- 🌱 I’m currently learning streams, WebRTC, 
 - 👯 I’m looking to collaborate on fintech, health-tech, edu-tech, and insure-tech applications
-- 💬 Ask me about nestjs, nodejs, python, spring boot, reactjs
+- 💬 Ask me about nestjs, nodejs, python, blockchain, reactjs
 <!-- - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ... -->
 - ⚡ Fun fact: Lover of board games
